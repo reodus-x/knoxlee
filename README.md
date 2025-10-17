@@ -1,2 +1,5 @@
-# knoxlee
-NOTES
+#######################
+
+These are just my notes
+
+EOF
