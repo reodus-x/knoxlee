@@ -2,7 +2,7 @@
 
 # Author: Arvin Gonzales
 # Author ID: reodus.x
-# EMail: argon@reodus.dev
+# Email: argon@reodus.dev
 # Date Created: 2025/10/16
 # Purpose: INSTALL Guest Additions to Ubuntu or other linux  distros
 # Use case: For vm screen resize, and activate the clipboard/drag-drop enabled VMs
