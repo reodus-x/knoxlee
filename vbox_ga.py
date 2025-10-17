@@ -27,3 +27,5 @@ sudo usermod -aG vboxsf $USER
 ### Run this every time before powering on a vm in vbox, there is a method to make it persistent but this is much safer
 sudo modprobe -r kvm_amd kvm      # If using AMD CPU:
 sudo modprobe -r kvm_intel kvm    # If using Intel CPU:
+
+#EOF
