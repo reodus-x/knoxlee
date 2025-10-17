@@ -22,3 +22,9 @@ sudo usermod -aG vboxsf $USER
 
 ### With this, we now can adjust screen resolution/size
 ### Make sure to enable clipboard and drag/drop settings in vbox
+
+### In case of error in running VMs because of KVM error
+sudo modprobe -r kvm_amd kvm      # If using AMD CPU:
+sudo modprobe -r kvm_intel kvm    # If using Intel CPU:
+
+#EOF
